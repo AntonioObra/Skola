@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(
+        to bottom,
+        rgb(16, 92, 185)20%,
+        rgb(0, 128, 58)50%
+        
+    );
+
+      height: 1000px;
+    
+}
+
+a{
+
+    background-color: sienna;
+    color: blue;
+    text-decoration: none;
+}
+
+.klasa{
+
+    border-top: 1px solid black;
+}
+
+.klasa:hover{
+    color: red;
+    text-decoration: line-through;
+    background-color: seagreen;
+}
