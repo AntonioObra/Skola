@@ -1,3 +1,23 @@
 a:link{
     color: blue;
 }
+
+.prvi  {
+
+    background-color: green;
+}
+
+.drugi {
+
+    background-color: red;
+}
+
+.treci {
+
+    background-color: yellow;
+}
+
+.prvi:hover, .drugi:hover, .treci:hover{
+
+    background-color: transparent;
+}
